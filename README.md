@@ -10,7 +10,7 @@ Created measures using DAX functions to calculate insights such as season winner
 Enabled users to dynamically explore data by selecting players to view their individual performance statistics, including runs scored, wickets taken, and bowling strike rates.
 Provided insights into team performance by showcasing the total number of matches won by each team and the distribution of match outcomes (runs, wickets, draw).
 
-## Technical Skills:
+## Tools and techniques used:
 
 Power BI
 Power Query Editor
